@@ -73,10 +73,5 @@
     <li>Inspect the generated metrics and plots to compare model performance.</li>
   </ol>
 
-  <h2>License</h2>
-  <p>
-    This repository is provided for academic and research use.
-    Please check institutional or organizational requirements before any production deployment.
-  </p>
 </body>
 </html>
