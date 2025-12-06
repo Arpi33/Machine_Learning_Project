@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Insurance Claim Prediction – ML Pipeline</title>
+  <h2>Insurance Claim Prediction – ML Pipeline</h2>
 </head>
 <body>
   <h1>Insurance Claim Prediction – Machine Learning Pipeline</h1>
